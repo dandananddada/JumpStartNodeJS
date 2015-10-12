@@ -1,2 +1,3 @@
 */.git
+/src/lesson1/authentication/node_modules
 /src/lesson*/node_modules
